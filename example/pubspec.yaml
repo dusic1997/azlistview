@@ -32,8 +32,8 @@ dependencies:
   common_utils: ^2.0.0
   # 汉字转拼音
   lpinyin: ^2.0.0
-  azlistview:
-    path: ../
+  azlistview: ^2.0.0
+    # path: ../
 
   # github_language_colors
   # url: https://github.com/Sky24n/github_language_colors.git
